@@ -1,0 +1,14 @@
+{
+  "name": "true-community-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for TRUE Community Member Database, Coins, Daily Tasks & Leaderboards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.8",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
